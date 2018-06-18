@@ -2,4 +2,4 @@
 
 pwd 
 ls
-ls sb-sample/build/libs/*
+ls build/*
