@@ -2,4 +2,5 @@
 
 pwd 
 ls
-ls build/
+cd build
+ls
