@@ -1,4 +1,4 @@
 #!/bin/sh
 
-cd sampleislife/java/springboot/sb-scratch
+cd sb-sample/
 sh gradlew --no-daemon clean build
