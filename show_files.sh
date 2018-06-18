@@ -1,7 +1,7 @@
 #!/bin/sh
 
 pwd 
-ls
+ls -ldra
 cd build
 ls
 cd build
