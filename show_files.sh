@@ -1,7 +1,9 @@
 #!/bin/sh
 
-pwd 
+pwd
 cd .
 ls -ldra
 cd build
+ls
+cd libs
 ls
