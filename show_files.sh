@@ -2,4 +2,4 @@
 
 pwd 
 ls
-ls build/*
+ls build/
