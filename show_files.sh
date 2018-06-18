@@ -4,3 +4,5 @@ pwd
 ls
 cd build
 ls
+cd libs
+ls
