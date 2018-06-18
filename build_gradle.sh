@@ -1,5 +1,5 @@
-#/bin/sh
-
+#!/bin/sh
+set +x
 cd sb-sample/
 sh gradlew --no-daemon clean build
 mkdir -p ../dist
