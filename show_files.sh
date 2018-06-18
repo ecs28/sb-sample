@@ -3,5 +3,5 @@
 pwd 
 cd .
 ls -ldra
-cd libs
+cd build
 ls
