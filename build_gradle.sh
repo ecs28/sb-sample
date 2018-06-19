@@ -8,6 +8,7 @@ then
   cd ..
   mv sb-sample/build/libs/* ./dist/ 
    ls ./dist/
+  cp sb-sample/manifest.yml ./dist/
   exit 0
 else
   echo "The script failed" >&2
