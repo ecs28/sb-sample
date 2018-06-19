@@ -38,7 +38,7 @@ public class HelloControllerTest {
 	
 	@Test
 	public void testForFail() throws Exception {
-		assertTrue(true);
+		assertTrue(false);
 	}
 
 }
