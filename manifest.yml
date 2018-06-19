@@ -1,0 +1,7 @@
+---
+applications:
+- name: sb-sample
+  host: sb-sample
+  memory: 756M
+  buildpack: java_buildpack
+  domain: cfapps.io
