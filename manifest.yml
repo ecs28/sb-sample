@@ -6,3 +6,4 @@ applications:
   memory: 756M
   buildpack: java_buildpack
   domain: cfapps.io
+  instances: 1
